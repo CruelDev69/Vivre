@@ -1,6 +1,6 @@
 # Vivre
 <h2/>Privacy Policy<h2/>
-Upon using Esquire, you agree upon the privacy policy displayed here. Please read through it carefully.
+Before using Vivre, you agree by the privacy policy displayed here. Please read through it carefully.
 What data we store and how we use it
 All this data stored is necessary as the listed commands can not function without them.
 Guild IDs - For warn commands.
