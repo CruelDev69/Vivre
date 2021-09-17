@@ -1,25 +1,24 @@
-# Vivre
-<h2/>Privacy Policy<h2/>
-Before using Vivre, you agree by the privacy policy displayed here. Please read through it carefully.
-What data we store and how we use it
-All this data stored is necessary as the listed commands can not function without them.
-Guild IDs - For warn commands.
-User IDs - For warn commands.
-Who can access the data?
-Only owner of vivre can access this data. Data does not get shared with third parties.
-Can you delete my data?
-It is possible to get your data deleted, or you can just delete it by yourself with $clearwarn command.
-Note that this only deletes data for the guild you are in, data about your warns in other guilds does not get deleted, and the process should be repeated in the other guilds for that as well.
+</h1> Privacy Policy </h1>
 
-Besides that, it's also possible to contact us so we can delete all your data in the database. To do this, simply send us an email at vivrebot@gmail.com, or join our support server with your user ID and/or guild ID and we will delete the data. This can however take several days, so we ask you to be patient.
-<h3/>Terms of Use<h3/>
+</h2> Before using Vivre you have to agree privacy policy of Vivre. Read it carefully.
 
-You agree upon these Terms of Use when using Vivre, you acknowledge any misconduct can and will result in a blacklist.
-
-1) You agree that you will not break discord's Terms Of Service. Breaking the discord Terms Of Service can and will result in a blacklist for either the responsible server, or user and a report towards discord.
-
-2) You will not spam commands on Vivre or try to bypass the cooldowns on commands. This extends to commands that don't have cooldowns as well.
-
-3) You will not abuse Vivre in any way, shape or form that allows you to break rules or circumvent systems of servers or may harm servers, users and/or the bot.
-
-4) You agree that you will not get our bot ratelimited by either discord, or third party APIs as this can harm parts of the bot.
+1. What data we collect?
+Data we collect. Without collecting this Data some commands won't work:- 
+1) User ID
+2) Guild ID
+2. Why we need this Data?
+We need this Data so that if bot crashes it will remember what bot was doing before crashing like afk.
+3. Where we use this Data?
+We use this Data in commands listed below 
+1) Warn command
+2) Warning command
+3) Afk command
+4) Temp mute command
+4. Do we share you Data?
+About your Data it is completely safe and secure we don't share it with anyone else.
+5. How can you contact us? 
+If you have any concerns about vivre.
+ If you have any concerns about our bot. You can simply join our support server by executing the command $support and contact us there.
+6. How can you delete your Data?
+You can simply remove warns by command. And for the afk system it will be automatically deleted when you type message.
+And for the temp mute when time ends it will be automatically deleted. </h2>
